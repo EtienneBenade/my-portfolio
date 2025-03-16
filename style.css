@@ -1,0 +1,45 @@
+.h1-header {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.text {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.icon {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.h2-header {
+  font-family: "Bree Serif", serif;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.h3-header {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.footer {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  background-color: aquamarine;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.contact {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
